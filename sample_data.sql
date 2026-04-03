@@ -1,6 +1,7 @@
 -- Parking Lot Management System
 -- sample_data.sql
 -- Representative data for testing queries and demonstrating relationships
+-- File contains representative records designed to simulate real-world operations of a parking lot management system. The data is structured to demonstrate relationships between entities such as customers, vehicles, parking spots, tickets, and payments.
 
 INSERT INTO parking_lots (lot_id, lot_name, address_line, city, state_code, zip_code, total_capacity, open_time, close_time) VALUES
 (1, 'Downtown Garage', '100 Main St', 'Jersey City', 'NJ', '07302', 120, '06:00', '23:00'),
