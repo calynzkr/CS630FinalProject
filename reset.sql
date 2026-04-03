@@ -1,6 +1,4 @@
--- Parking Lot Management System
--- reset.sql
--- Drops all tables so the schema can be recreated cleanly
+
 
 DROP TABLE IF EXISTS violations;
 DROP TABLE IF EXISTS payments;
