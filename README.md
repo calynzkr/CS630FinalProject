@@ -1,0 +1,1 @@
+This project implements a Parking Lot Management System using a relational database. It is designed to manage customers, vehicles, parking spots, parking sessions (tickets), and payments efficiently. The system demonstrates proper database design, normalization, and use of constraints to ensure data integrity.
